@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.0"
+        sha1="190bc4f690b22c8639cce7da3d54c1cc71447138">
+        <dex dex="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e4709e42495fe090a51da783d62a41896998ec2/classes.dex" />
+    </item>
+    <item
+        jar="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.0"
+        sha1="150b4886a8a5c9f63cd33053149637e188bdd15c">
+        <dex dex="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d80829e653c5c1c7affcde3a1e2b8df736369d0/classes.dex" />
+    </item>
+
+</items>

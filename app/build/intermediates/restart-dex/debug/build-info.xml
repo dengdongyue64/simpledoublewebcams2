@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="22"
+    density="mdpi"
+    format="7"
+    timestamp="175084639199695" >
+
+    <task
+        name="javac"
+        duration="49" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="175084639199695" >
+        <artifact
+            location="/home/hampoo-dd/AndroidStudioProjects/simpledoublewebcams2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
